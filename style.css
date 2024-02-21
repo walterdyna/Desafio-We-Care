@@ -6,8 +6,7 @@
 }
 
 .menu {
-  width: 774px;;
-  height: 122px;
+  width: 774px;
   font-weight: 600;
   font-size: 24px;
   line-height: 29px;
@@ -18,18 +17,77 @@
 }
 
 a {
-    margin-left: 20px;
+  margin-left: 20px;
 }
 
 .login {
-    width: 120px;
-    height: 41px;
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 29px;
-    color: #FFFFFF;
-    background: #665AE1;
-    border-radius: 30px;
-    border: none;
-
+  width: 120px;
+  height: 41px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+  background: #665ae1;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
 }
+
+.imgilus {
+  width: 568px;
+  height: 500px;
+}
+
+.imagem {
+  display: inline-block;
+  margin-top: 140px;
+}
+
+.textos {
+  display: inline-block;
+  margin-left: 86px;
+}
+
+h1 {
+  width: 513px;
+  height: 122px;
+  font-weight: 900;
+  font-size: 100px;
+  line-height: 122px;
+  color: #515151;
+  margin-bottom: 45px;
+}
+
+h2 {
+  width: 448px;
+  height: 71px;
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 71px;
+  color: #515151;
+  margin-bottom: 45px;
+}
+
+p {
+  width: 515px;
+  height: 87px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0em;
+  color: #848484;
+  margin-bottom: 45px;
+}
+
+.explore {
+  width: 239px;
+  height: 64px;
+  border-radius: 50px;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 34px;
+  cursor: pointer;
+  color: #000000;
+  background-color: #ADFF00;
+  margin-bottom: 45px;
+ }
