@@ -6,7 +6,7 @@
 }
 
 .menu {
-  width: 774px;
+  width: 799px;
   font-weight: 600;
   font-size: 24px;
   line-height: 29px;
@@ -31,6 +31,7 @@ a {
   border-radius: 30px;
   border: none;
   cursor: pointer;
+  margin-left: 20px;
 }
 
 .imgilus {
@@ -41,12 +42,17 @@ a {
 .imagem {
   display: inline-block;
   margin-top: 140px;
+  margin-left: 60px;
 }
 
 .textos {
   display: inline-block;
-  margin-left: 86px;
-}
+  margin-left: 70px;
+  border-color: #515151;
+  background-color: #faf2f2;
+  border-radius: 15px;
+  padding: 15px;
+  }
 
 h1 {
   width: 513px;
@@ -55,7 +61,7 @@ h1 {
   font-size: 100px;
   line-height: 122px;
   color: #515151;
-  margin-bottom: 45px;
+  margin-bottom: 15px;
 }
 
 h2 {
@@ -65,7 +71,7 @@ h2 {
   font-size: 58px;
   line-height: 71px;
   color: #515151;
-  margin-bottom: 45px;
+  margin-bottom: 15px;
 }
 
 p {
@@ -76,7 +82,7 @@ p {
   line-height: 29px;
   letter-spacing: 0em;
   color: #848484;
-  margin-bottom: 45px;
+  margin-bottom: 15px;
 }
 
 .explore {
@@ -89,5 +95,5 @@ p {
   cursor: pointer;
   color: #000000;
   background-color: #ADFF00;
-  margin-bottom: 45px;
+  border: none;
  }
