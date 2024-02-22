@@ -18,6 +18,7 @@
 
 a {
   margin-left: 20px;
+  text-decoration: none;
 }
 
 .login {
@@ -32,11 +33,14 @@ a {
   border: none;
   cursor: pointer;
   margin-left: 20px;
+
+  box-shadow: 0px 4px 4px 0px #00000040;
+
 }
 
 .imgilus {
-  width: 568px;
-  height: 500px;
+  width: 468px;
+  height: 400px;
 }
 
 .imagem {
@@ -96,4 +100,7 @@ p {
   color: #000000;
   background-color: #ADFF00;
   border: none;
+
+  box-shadow: 0px 4px 4px 0px #00000040;
+
  }
